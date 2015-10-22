@@ -1,5 +1,5 @@
-# Grails-v2.4.5-bootstrap-web
-Bootstrap Web Project Using Grails v2.4.5
+# Grails-v2.4.5-init-web
+A Initialized Web Project Using Grails v2.4.5
 
 included:
  1. Spring Security Core module and Spring Security UIs
